@@ -250,3 +250,14 @@ footer{
         display: none;
     }
 }
+/* For medium screen sizes from 950px down */
+@media  screen  and (maxwidth: 950px){
+    #menu{
+        clear:left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    
+}
